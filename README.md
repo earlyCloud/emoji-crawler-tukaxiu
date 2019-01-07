@@ -1,5 +1,5 @@
 # emoji-crawler-tukaxiu  
-![中文点这里](https://github.com/earlyCloud/emoji-crawler-tukaxiu/blob/master/README-CN.md)  
+[中文点这里](https://github.com/earlyCloud/emoji-crawler-tukaxiu/blob/master/README-CN.md)  
 
 ![](https://img.shields.io/badge/Node-%3E%3D%20V6-brightgreen.svg)  
 A small simple emoji crawler that helps you to download emoji from tukaxiu.com  
