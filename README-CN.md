@@ -1,5 +1,5 @@
 # emoji-crawler-tukaxiu  
-
+![](https://img.shields.io/badge/Node-%3E%3D%20V6-brightgreen.svg)  
 一个简单的表情包下载器，它可以帮你从图咖秀上把表情包下载下来  
 基于nodejs,
 下载代码，解压，命令行进入解压目录，执行  
